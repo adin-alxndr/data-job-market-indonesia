@@ -354,4 +354,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🙋 Author
 
-Made with ❤️ | Feel free to fork, star ⭐, and contribute!
+Made by [adin-alxndr](https://github.com/adin-alxndr/)
