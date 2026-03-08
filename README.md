@@ -314,8 +314,8 @@ FROM jobs GROUP BY salary_status
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/job-market-analysis.git
-   cd job-market-analysis
+   git clone https://github.com/adin-alxndr/data-job-market-indonesia
+   cd data-job-market-indonesia
    ```
 
 2. **Install dependencies**
@@ -331,7 +331,7 @@ FROM jobs GROUP BY salary_status
 
 4. **Run locally**
    ```bash
-   jupyter notebook "Job_Market_Analysis_Indonesia.ipynb"
+   jupyter notebook "job_market_analysis.ipynb"
    ```
    > Requires Google Chrome installed on your machine.
 
