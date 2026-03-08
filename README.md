@@ -42,7 +42,7 @@ An end-to-end data project that **scrapes**, **stores**, **queries**, and **anal
 ```
 job-market-analysis/
 │
-├── Job_Market_Analysis_Indonesia.ipynb  # Main notebook
+├── job_market_analysis.py                # Main notebook
 ├── job_market.db                        # SQLite database
 ├── jobs_raw_full.csv                    # Raw scraped data (with full descriptions)
 ├── jobs_cleaned.csv                     # Cleaned data
